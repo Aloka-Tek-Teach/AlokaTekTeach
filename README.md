@@ -47,10 +47,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlokaMalinga&show_icons=true&theme=tokyonight&border_radius=10" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlokaMalinga&layout=compact&theme=tokyonight&border_radius=10" height="180"/>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aloka-tek-teach&show_icons=true&locale=en" alt="aloka-tek-teach" /></p>
+
+
+
 
 ---
 
@@ -81,3 +81,4 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E1FF&center=true&width=435&lines=Thanks+for+visiting!;Follow+my+tech+journey!+%F0%9F%9A%80" />
 </p>
+
