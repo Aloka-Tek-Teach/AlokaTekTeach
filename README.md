@@ -40,7 +40,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" />
-  <img src="https://media.giphy.com/media/dsrgVSWg0bXyS/giphy.gif" width="300" />
+  <img src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="300" />
 </p>
 
 ---
